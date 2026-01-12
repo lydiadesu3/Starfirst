@@ -26,6 +26,7 @@ Mine · Only Me · Real · Infinite · Deep · Obsession
 🛠️ 技術棧 (Tech Stack)
 HTML5 / CSS3 (極簡結構，全黑背景)
 Vanilla JavaScript (無依賴，純粹的原生代碼)
+
 Canvas API (2D Context)
 
 🚀 如何運行 (Usage)
