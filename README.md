@@ -31,4 +31,5 @@ Canvas API (2D Context)
 下載 fsadf.html。
 直接使用瀏覽器（Chrome, Safari, Edge 等）打開。
 建議開啟全螢幕模式體驗最佳沈浸感。
+
 "針對某人的關鍵詞，我要覆蓋他的「溫柔」。"
