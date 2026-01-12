@@ -18,6 +18,7 @@ Mine · Only Me · Real · Infinite · Deep · Obsession
 背景清除率極低 (rgba(0, 0, 0, 0.02))，讓舊的軌跡在畫布上停留更久，形成一種讓人無法喘息的茂密感。
 自動補種 (Auto-Regeneration)
 系統保證畫面上永遠不會「空蕩」。只要枝幹數量低於閾值，新的執念就會隨機在畫布各處破土而出。
+
 🖱️ 互動方式 (Interaction)
 
 觀看： 打開網頁，看著黑暗被色彩吞噬。
