@@ -20,6 +20,7 @@ Mine · Only Me · Real · Infinite · Deep · Obsession
 系統保證畫面上永遠不會「空蕩」。只要枝幹數量低於閾值，新的執念就會隨機在畫布各處破土而出。
 🖱️ 互動方式 (Interaction)
 觀看： 打開網頁，看著黑暗被色彩吞噬。
+
 點擊 (Click / MouseDown)：
 
 "點擊哪裡，哪裡就瘋狂生長。"
