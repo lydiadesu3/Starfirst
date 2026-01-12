@@ -25,6 +25,7 @@ Mine · Only Me · Real · Infinite · Deep · Obsession
 你的每一次點擊都會瞬間觸發 5 簇新的生長點。這不是灌溉，這是注入更強烈的意志。
 🛠️ 技術棧 (Tech Stack)
 HTML5 / CSS3 (極簡結構，全黑背景)
+
 Vanilla JavaScript (無依賴，純粹的原生代碼)
 
 Canvas API (2D Context)
