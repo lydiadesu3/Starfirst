@@ -21,6 +21,7 @@ Mine · Only Me · Real · Infinite · Deep · Obsession
 🖱️ 互動方式 (Interaction)
 觀看： 打開網頁，看著黑暗被色彩吞噬。
 點擊 (Click / MouseDown)：
+
 "點擊哪裡，哪裡就瘋狂生長。"
 
 你的每一次點擊都會瞬間觸發 5 簇新的生長點。這不是灌溉，這是注入更強烈的意志。
